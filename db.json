@@ -85,5 +85,17 @@
             "ExpectedSalary": 16000,
             "Location": "Bolorejoa",
             "Availability": "Immediate"
+        }],
+        "Awards": [{
+            "AwardID": 1,
+            "Award": "Dean's List",
+            "Date": "Aug 2018",
+            "Description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+        }, 
+        {
+            "AwardID": 2,
+            "Award": "Dean's List",
+            "Date": "Aug 2018",
+            "Description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
         }]
 }
