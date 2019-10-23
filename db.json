@@ -1,14 +1,137 @@
 {
-  posts: [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+        ProfileImage: "https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg",
+        PersonalParticulars: {
+            StudentID: 100,
+            FirstName: "Gill",
+            MiddleName: "Mac",
+            LastName: "Oliver",
+            Email: "nisi@auctorvelit.ca",
+            Phone: "(65) 9577-7329",
+            Country: "Korea, North",
+            City: "Holman",
+            CurrentAddress: "895-7107 Aliquam, St.",
+            PostalCode: "159543",
+            Nationality: "Singapore"
+        },
+        Education: [{
+            EducationID: 1,
+            University: "Faulkner University",
+            Degree: "Diploma",
+            FieldOfStudy: "Systems Administrator I",
+            Major: "DSS",
+            StartDate: "",
+            EndDate: "",
+            Mode: "Part-Time",
+            GPA: "Second-class"
+        },
+        {
+            EducationID: 2,
+            University: "Faulkners University",
+            Degree: "Diplomas",
+            FieldOfStudy: "Systemsa Administrator I",
+            Major: "DSSa",
+            StartDate: "",
+            EndDate: "",
+            Mode: "Part-Time",
+            GPA: "Second-class"
+        },
+        {
+            EducationID: 3,
+            University: "Faulkners University",
+            Degree: "Diplomas",
+            FieldOfStudy: "Systemsa Administrator I",
+            Major: "DSSa",
+            StartDate: "",
+            EndDate: "",
+            Mode: "Part-Time",
+            GPA: "Second-class"
+        }],
+        WorkExp: [{
+            WorkExpID: 1,
+            Position: "Junior",
+            Company: "Vimbo",
+            StartDate: "29/06/2018",
+            EndDate: "08/04/2019",
+            Mode: "Part Time",
+            Industry: "Training",
+            AnnualSalary: 33000,
+            Description: "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+        },
+        {
+            WorkExpID: 2,
+            Position: "Juniora",
+            Company: "Vimboq",
+            StartDate: "29/06/2018",
+            EndDate: "08/04/2019",
+            Mode: "Part Timew",
+            Industry: "Traininga",
+            AnnualSalary: 33000,
+            Description: "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+        }],
+        JobPreference: [{
+            JobPreferenceID: 1,
+            Industry: "Accounting",
+            Position: "Senior",
+            JobType: "Contract",
+            ExpectedSalary: 16000,
+            Location: "Bolorejo",
+            Availability: "Immediate"
+        },
+        {
+            JobPreferenceID: 2,
+            Industry: "Accountinga",
+            Position: "Seniora",
+            JobType: "Contracta",
+            ExpectedSalary: 16000,
+            Location: "Bolorejoa",
+            Availability: "Immediate"
+        }],
+        Awards: [{
+            AwardID: 1,
+            Award: "Dean's List",
+            Date: "Aug 2018",
+            Description: "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+        }, 
+        {
+            AwardID: 2,
+            Award: "Dean's List",
+            Date: "Aug 2018",
+            Description: "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+        }],
+        Certification: [{
+            CertificateID: 1,
+            Name: "CNNP Routing and Switching",
+            IssuedBy: "Scrum Alliance",
+            IssueDate: "Mar 2019",
+            ValidUntil: "Mar 2020"
+        },{
+            CertificateID: 2,
+            Name: "CNNP Routing and Switchinga",
+            IssuedBy: "Scrum Alliancea",
+            IssueDate: "Mar 2019a",
+            ValidUntil: "Mar 2020a"
+        }],
+        Skills: [{
+            SkillID: 1,
+            SkillName: 'C++',
+        }],
+        Projects: [{
+            ProjectID: 1,
+            Title: "Personal Website",
+            Status: "Ongoing",
+            Description: "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+            Link: "https://www.google.com"
+        },
+        {
+            ProjectID: 2,
+            Title: "Personal Websites",
+            Status: "Ongoinging",
+            Description: "Duis abibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+            Link: "https://www.google.com.loo"
+        }],
+        Document: [{
+            DocumentID: 1,
+            Title: "Resume",
+            Link: ""
+        }]
+    }
