@@ -97,5 +97,36 @@
             "Award": "Dean's List",
             "Date": "Aug 2018",
             "Description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+        }],
+        "Certification": [{
+            "CertificateID": 1,
+            "Name": "CNNP Routing and Switching",
+            "IssuedBy": "Scrum Alliance",
+            "IssueDate": "Mar 2019",
+            "ValidUntil": "Mar 2020"
+        },{
+            "CertificateID": 2,
+            "Name": "CNNP Routing and Switchinga",
+            "IssuedBy": "Scrum Alliancea",
+            "IssueDate": "Mar 2019a",
+            "ValidUntil": "Mar 2020a"
+        }],
+        "Skills": [{
+            "SkillID": 1,
+            "SkillName": "C++",
+        }],
+        "Projects": [{
+            "ProjectID": 1,
+            "Title": "Personal Website",
+            "Status": "Ongoing",
+            "Description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+            "Link": "https://www.google.com"
+        },
+        {
+            "ProjectID": 2,
+            "Title": "Personal Websites",
+            "Status": "Ongoinging",
+            "Description": "Duis abibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+            "Link": "https://www.google.com.loo"
         }]
 }
