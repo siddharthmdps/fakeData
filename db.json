@@ -12,5 +12,38 @@
             "CurrentAddress": "895-7107 Aliquam, St.",
             "PostalCode": "159543",
             "Nationality": "Singapore"
-        }
+        },
+        "Education": [{
+            "EducationID": 1,
+            "University": "Faulkner University",
+            "Degree": "Diploma",
+            "FieldOfStudy": "Systems Administrator I",
+            "Major": "DSS",
+            "StartDate": "",
+            "EndDate": "",
+            "Mode": "Part-Time",
+            "GPA": "Second-class"
+        },
+        {
+            "EducationID": 2,
+            "University": "Faulkners University",
+            "Degree": "Diplomas",
+            "FieldOfStudy": "Systemsa Administrator I",
+            "Major": "DSSa",
+            "StartDate": "",
+            "EndDate": "",
+            "Mode": "Part-Time",
+            "GPA": "Second-class"
+        },
+        {
+            "EducationID": 3,
+            "University": "Faulkners University",
+            "Degree": "Diplomas",
+            "FieldOfStudy": "Systemsa Administrator I",
+            "Major": "DSSa",
+            "StartDate": "",
+            "EndDate": "",
+            "Mode": "Part-Time",
+            "GPA": "Second-class"
+        }]
 }
