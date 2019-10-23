@@ -1,5 +1,5 @@
 {
-        ProfileImage: "https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg",
+        "ProfileImage": "https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg",
         PersonalParticulars: {
             StudentID: 100,
             FirstName: "Gill",
