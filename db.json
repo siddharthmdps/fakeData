@@ -99,13 +99,13 @@
             "Description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
         }],
         "Certification": [{
-            "CertificateID: 1,
+            "CertificateID": 1,
             "Name": "CNNP Routing and Switching",
             "IssuedBy": "Scrum Alliance",
             "IssueDate": "Mar 2019",
             "ValidUntil": "Mar 2020"
         },{
-            "CertificateID: 2,
+            "CertificateID": 2,
             "Name": "CNNP Routing and Switchinga",
             "IssuedBy": "Scrum Alliancea",
             "IssueDate": "Mar 2019a",
