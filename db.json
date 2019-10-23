@@ -1,5 +1,19 @@
 {
-        Education: [{
+        "ProfileImage": "https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg",
+        "PersonalParticulars": {
+            StudentID: 100,
+            FirstName: "Gill",
+            MiddleName: "Mac",
+            LastName: "Oliver",
+            Email: "nisi@auctorvelit.ca",
+            Phone: "(65) 9577-7329",
+            Country: "Korea, North",
+            City: "Holman",
+            CurrentAddress: "895-7107 Aliquam, St.",
+            PostalCode: "159543",
+            Nationality: "Singapore"
+        },
+        "Education": [{
             EducationID: 1,
             University: "Faulkner University",
             Degree: "Diploma",
@@ -32,7 +46,7 @@
             Mode: "Part-Time",
             GPA: "Second-class"
         }],
-        WorkExp: [{
+        "WorkExp": [{
             WorkExpID: 1,
             Position: "Junior",
             Company: "Vimbo",
@@ -54,7 +68,7 @@
             AnnualSalary: 33000,
             Description: "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
         }],
-        JobPreference: [{
+        "JobPreference": [{
             JobPreferenceID: 1,
             Industry: "Accounting",
             Position: "Senior",
@@ -72,7 +86,7 @@
             Location: "Bolorejoa",
             Availability: "Immediate"
         }],
-        Awards: [{
+        "Awards": [{
             AwardID: 1,
             Award: "Dean's List",
             Date: "Aug 2018",
@@ -84,7 +98,7 @@
             Date: "Aug 2018",
             Description: "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
         }],
-        Certification: [{
+        "Certification": [{
             CertificateID: 1,
             Name: "CNNP Routing and Switching",
             IssuedBy: "Scrum Alliance",
@@ -97,11 +111,11 @@
             IssueDate: "Mar 2019a",
             ValidUntil: "Mar 2020a"
         }],
-        Skills: [{
+        "Skills": [{
             SkillID: 1,
             SkillName: 'C++',
         }],
-        Projects: [{
+        "Projects": [{
             ProjectID: 1,
             Title: "Personal Website",
             Status: "Ongoing",
@@ -115,7 +129,7 @@
             Description: "Duis abibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
             Link: "https://www.google.com.loo"
         }],
-        Document: [{
+        "Document": [{
             DocumentID: 1,
             Title: "Resume",
             Link: ""
