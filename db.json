@@ -37,11 +37,11 @@
         },
         {
             "EducationID": 3,
-            'University": "Faulkners University",
+            "University": "Faulkners University",
             "Degree": "Diplomas",
             "FieldOfStudy": "Systemsa Administrator I",
             "Major": "DSSa",
-            'StartDate": "",
+            "StartDate": "",
             "EndDate": "",
             "Mode": "Part-Time",
             "GPA": "Second-class"
@@ -113,7 +113,7 @@
         }],
         "Skills": [{
             "SkillID": 1,
-            "SkillName": 'C++',
+            "SkillName": "C++",
         }],
         "Projects": [{
             "ProjectID": 1,
