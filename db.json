@@ -1,18 +1,4 @@
 {
-        ProfileImage: "https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg",
-        PersonalParticulars: {
-            StudentID: 100,
-            FirstName: "Gill",
-            MiddleName: "Mac",
-            LastName: "Oliver",
-            Email: "nisi@auctorvelit.ca",
-            Phone: "(65) 9577-7329",
-            Country: "Korea, North",
-            City: "Holman",
-            CurrentAddress: "895-7107 Aliquam, St.",
-            PostalCode: "159543",
-            Nationality: "Singapore"
-        },
         Education: [{
             EducationID: 1,
             University: "Faulkner University",
