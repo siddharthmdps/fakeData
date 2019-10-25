@@ -1,15 +1,16 @@
 {
-        "ProfileImage": "https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg",
+    "studentProfile":{
+        "ProfileImage": {"link": "https://content-static.upwork.com/uploads/2014/10/01073427/profilephoto1.jpg"},
         "PersonalParticulars": {
             "StudentID": 100,
-            "FirstName": "Gill",
-            "MiddleName": "Mac",
+            "FirstName": "Gillss",
+            "MiddleName": "Macssss",
             "LastName": "Oliver",
             "Email": "nisi@auctorvelit.ca",
             "Phone": "(65) 9577-7329",
             "Country": "Korea, North",
             "City": "Holman",
-            "CurrentAddress": "895-7107 Aliquam, St.",
+            "CurrentAddress": "895-7107 Aliquam, St.P",
             "PostalCode": "159543",
             "Nationality": "Singapore"
         },
@@ -19,8 +20,8 @@
             "Degree": "Diploma",
             "FieldOfStudy": "Systems Administrator I",
             "Major": "DSS",
-            "StartDate": "",
-            "EndDate": "",
+            "StartDate": "12/12/2012",
+            "EndDate": "12/12/2012",
             "Mode": "Part-Time",
             "GPA": "Second-class"
         },
@@ -30,8 +31,8 @@
             "Degree": "Diplomas",
             "FieldOfStudy": "Systemsa Administrator I",
             "Major": "DSSa",
-            "StartDate": "",
-            "EndDate": "",
+            "StartDate": "12/12/2012",
+            "EndDate": "12/12/2012",
             "Mode": "Part-Time",
             "GPA": "Second-class"
         },
@@ -41,8 +42,8 @@
             "Degree": "Diplomas",
             "FieldOfStudy": "Systemsa Administrator I",
             "Major": "DSSa",
-            "StartDate": "",
-            "EndDate": "",
+            "StartDate": "12/12/2012",
+            "EndDate": "12/12/2012",
             "Mode": "Part-Time",
             "GPA": "Second-class"
         }],
@@ -131,4 +132,5 @@
             "Title": "Resume",
             "Link": ""
         }]
+    }
 }
