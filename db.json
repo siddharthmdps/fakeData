@@ -113,6 +113,14 @@
             "IssueDate": "Mar 2019a",
             "ValidUntil": "Mar 2020a"
         }],
+        "Skills": [{
+            "SkillID": 1,
+            "SkillName": "C++"
+        },
+        {
+            "SkillID": 2,
+            "SkillName": "Java"
+        }],
         "Projects": [{
             "ProjectID": 1,
             "Title": "Personal Website",
